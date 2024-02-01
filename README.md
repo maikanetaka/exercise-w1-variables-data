@@ -10,7 +10,7 @@ In this week’s team session, you will practice JavaScript basics and work on a
 
 ### Instructions:
 
-Take a look into the index.js file and follow the instructions to complete the exercises 1-7 (n 8 is a bonus exercise).
+Take a look into the index.js file and follow the instructions to complete the exercises 1-7 (n 8 is a bonus exercise). Collaborate with others using a pair/mob programming approach with LiveShare.
 
 ### Hint:
 
